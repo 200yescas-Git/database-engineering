@@ -7,10 +7,3 @@
 
 ### Professional Technical Portfolio | Long-Term Engineering Repository
 
-
-
-
-
-
-# database-engineering
-DBA | Enterprise | Administration | Management 
