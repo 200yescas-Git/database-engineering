@@ -249,6 +249,43 @@ Cada plataforma mantendrá sus propias rutas de aprendizaje y certificaciones de
 
 ---
 
+## Documentation Standards
+
+Toda la documentación seguirá principios de:
+
+- Claridad técnica.
+- Organización consistente.
+- Evidencia práctica.
+- Reproducibilidad.
+- Referencias oficiales.
+- Mejora continua.
+
+---
+
+## Security Considerations
+
+La seguridad es un componente esencial en la administración de bases de datos empresariales.
+
+Este repositorio documenta buenas prácticas orientadas a la protección, administración y disponibilidad de la información mediante controles de seguridad, configuraciones seguras y procedimientos recomendados por la industria.
+
+Las áreas consideradas incluyen:
+
+- Gestión de usuarios y privilegios.
+- Control de acceso y autenticación.
+- Cifrado de datos.
+- Auditoría y monitoreo.
+- Copias de seguridad y recuperación.
+- Hardening de bases de datos.
+- Gestión de vulnerabilidades y actualizaciones.
+- Aplicación de buenas prácticas de seguridad.
+
+---
+
+
+
+
+
+
 
 
 
